@@ -1,0 +1,1 @@
+ export const background= "https://hg-sitecore-prd-cd.azurewebsites.net/-/media/common/stage-newperspectives_home.jpg?h=725&iar=0&mw=1440&w=1440&rev=0fee5ee14f7a4660aa4b13c04dd02742&hash=BAAE6A53A2C22E432A5FF54322F4ED2F/Desktop/expense"
